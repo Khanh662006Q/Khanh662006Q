@@ -15,4 +15,4 @@ Continuously improve in C++ and explore new technologies in AI.
 📫 Contact Me
 Email: le.trongkhanhqlv@gmail.com
 Phone: +84 867 972 429
-LinkedIn: Lê Trọng Khánh
+LinkedIn: www.linkedin.com/in/trọng-khánh-lê-7b5408333
